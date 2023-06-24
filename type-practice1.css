@@ -1,0 +1,20 @@
+html { background: #111; }
+body { 
+    background: #ddd;
+    width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: 'Libre Baskerville', serif;
+    }
+
+h1 { 
+  font-family: 'Montserrat', sans-serif; 
+ }
+
+h2 { 
+font-family: 'Montserrat', sans-serif;
+}
+
+h3 { 
+font-family: 'Montserrat', sans-serif;
+}
